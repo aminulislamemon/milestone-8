@@ -1,0 +1,44 @@
+[
+    {
+      "id": "633464f01e1594abe7195ca8",
+      "name": "Treadmill Training",
+      "image": "https://www.runtastic.com/blog/wp-content/uploads/2016/11/15.11._Running-On-A-Treadmill.jpg",
+      "time": 15,
+      "description": "For many, treadmills are a good choice to begin a new exercise routine because walking is well tolerated by most individuals regardless of fitness level and for most back conditions. As strength and endurance are developed, the treadmill can be used for jogging and/or for interval training."
+    },
+    {
+      "id": "633464f01498b173b3473ca5",
+      "name": "Heavy calisthenics",
+      "image": "https://athleticmuscle.net/wp-content/uploads/2018/11/calisthenics.png",
+      "time": 20,
+      "description": "Overweight people can take on calisthenics and should absolutely consider it as it's a great way to get in shape and lose weight. While working out using calisthenics may take a little more work when overweight, it is one of the best ways to see results fast."
+    },
+    {
+      "id": "633464f0d0ce8ead5b592f67",
+      "name": "High impact aerobic dancing",
+      "image": "https://img.freepik.com/free-vector/illustrated-dance-fitness-class_52683-58310.jpg?w=2000",
+      "time": 30,
+      "description": "High-impact dance aerobics includes elements such as jumping jacks, simulated jump-roping and other forms of leaping with both feet off the ground. Step-aerobic moves can be either low or high-impact, depending on the speed and height of the steps you are using."
+    },
+    {
+      "id": "633464f06c64d6477cd2ee4d",
+      "name": "Jumping rope",
+      "image": "https://everydaypower.com/wp-content/uploads/2016/11/Benefits-of-Jumping-Rope-During-Your-Morning-Routine.jpg",
+      "time": 15,
+      "description": "Jumping rope is a form of exercise that involves swinging a rope around your body and jumping over it as it passes under your feet. It's a form of cardiovascular training since the constant movement elevates your heart rate. The basic concept of jumping rope is simple"
+    },
+    {
+      "id": "633464f01435b2c4438d4e97",
+      "name": "Skiing machine",
+      "image": "https://img.livestrong.com/375/cme-data/getty%2F61e300d417184795974c76562e7314df.jpg",
+      "time": 25,
+      "description": " The SkiErg is great for improving your cardiovascular endurance. You can work both anaerobically and aerobically, depending on the length of time you're working for. You'll also develop your muscular endurance as well"
+    },
+    {
+      "id": "633464f0eab428f74ff179a3",
+      "name": "Stationary bicycle workout",
+      "image": "https://media.istockphoto.com/photos/man-exercise-by-bike-at-the-gym-make-their-thighs-strong-and-healthy-picture-id1320185461?b=1&k=20&m=1320185461&s=170667a&w=0&h=vLyBhwX1QJpaOpVU8zbB6wF54g7iqrYdDcFI5TLArAQ=",
+      "time": 15,
+      "description": "Riding a stationary exercise bike is an efficient and effective way to burn calories and body fat while strengthening your heart, lungs, and muscles. Compared to some other types of cardio equipment, a stationary bicycle puts less stress on your joints, but it still provides an excellent aerobic workout."
+    }
+  ]
